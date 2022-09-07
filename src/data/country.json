@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Malaysia",
+    "code": "MYR",
+    "value": 3.1,
+    "storeId": "MY-S-3B7VWDJVBTDR"
+  },
+  {
+    "name": "Singapore",
+    "code": "SGD",
+    "value": 1,
+    "storeId": "SG-S-NPQPBAWN2N6J"
+  }
+]
