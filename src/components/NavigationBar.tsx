@@ -18,7 +18,7 @@ function NavigationBar() {
   }, [cart]);
 
   return (
-    <Navbar sticky="top" className="bg-white shadow-sm mb-3 px-2">
+    <Navbar fixed="top" className="bg-white shadow-sm mb-3 px-2">
       <Container>
         <Navbar.Brand className="me-auto fw-bold fs-3" as={Link} to="/">
           <span className="text-info">My </span>Store
@@ -26,6 +26,7 @@ function NavigationBar() {
 
         <div style={{ marginRight: "20px" }}>
           <Form.Select
+            data-testid="form"
             role="button"
             value={country}
             size="sm"

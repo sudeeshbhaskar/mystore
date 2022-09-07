@@ -40,5 +40,6 @@
 }
 
 .main-container {
-  min-height: calc(100vh - 220px);
+  margin-top: 6rem;
+  min-height: calc(100vh - 210px);
 }

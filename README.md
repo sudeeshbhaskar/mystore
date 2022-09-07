@@ -4,7 +4,7 @@ My Store is a simple e-commerce website implemented using react 18 integrate wit
 
 ## Environment Variables
 
-To use environment varibales locally, please make a file named '.env.local' and add the following items in it
+To use environment varibales locally, please make a file named '.env' and add the following items in it (refer sample-env)
 
 ## Available Scripts
 

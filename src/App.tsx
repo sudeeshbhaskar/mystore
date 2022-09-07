@@ -17,7 +17,7 @@ function App() {
     <StoreProvider>
       <Loader />
       <NavigationBar />
-      <Container className="mt-5 main-container">
+      <Container className="main-container ">
         <RenderRoute />
       </Container>
       <Footer />

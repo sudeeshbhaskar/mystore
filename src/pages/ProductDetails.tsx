@@ -38,7 +38,7 @@ function ProductDetails() {
 
   return (
     <Container>
-      <Row className="mt-5 justify-content-center  p-4 p-md-5 ">
+      <Row className="justify-content-center  p-4 p-md-5 ">
         <Col
           xs={{ span: 12, order: 2 }}
           md={{ span: 6, order: 1 }}
